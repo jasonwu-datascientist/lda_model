@@ -9,7 +9,7 @@ import nltk
 from nltk.corpus import stopwords
 import warnings
 import spacy
-import en_core_web_sm
+
 from spacy.lang.en import English
 import gensim
 import pyLDAvis.gensim
